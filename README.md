@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://thumbs.dreamstime.com/b/panda-antropom%C3%B3rfica-programador-que-est%C3%A1-com-computador-e-caf%C3%A9-na-sala-do-servidor-105309988.jpg" align="center" height="120" width="120" />
+<img src="https://thumbs.dreamstime.com/b/panda-antropom%C3%B3rfica-programador-que-est%C3%A1-com-computador-e-caf%C3%A9-na-sala-do-servidor-105309988.jpg" align="center" height="140" width="140" />
 </div>  
   
 
