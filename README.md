@@ -4,7 +4,7 @@
   
 
 ### <div align="center">Oii, eu sou a Nyrx sou Ativista, Estudante de Programação e Ciência de Dados aplicada a Inteligência Artificial I.A 🚀</div>  
-  
+   
 
 ****  
   
